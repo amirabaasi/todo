@@ -1,0 +1,22 @@
+{
+    "charts": "Charts",
+    "my_plan": "Plans",
+    "todos": "Todos",
+    "home": "Home",
+    "add_place-holder": "add your task",
+    "added": "scheduler",
+    "completed-day": "Completed on",
+    "completed-time": " at",
+    "sign-oute": "signOute",
+    "detet-qa": "Are you sure you want to delete?",
+    "yes": "Yes",
+    "no": "No",
+    "todo-title": "titel",
+    "close": "close",
+    "save": "save",
+    "edit-header": "Edit ",
+    "all": "All",
+    "completed": "Completed",
+    "not-completed": "Pending",
+    "pie-chart-title": "task Status Pie Chart"
+}
