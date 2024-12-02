@@ -9,12 +9,8 @@ export default function routes() {
         <Routes>
             <Route path='/login' element={<Login />} />
             <Route path='/signup' element={<Signup />} />
-            <Route path='/' element={<Home />} />
-            <Route path='/home' element={<Home />} />
+            <Route path='/todo' element={<Home />} />
             <Route path='/charts' element={<Charts />} />
-
-
-
         </Routes>
     )
 }
